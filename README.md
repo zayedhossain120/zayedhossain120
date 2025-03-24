@@ -43,15 +43,15 @@ motion-fade-in 3000ms
 
 ### 📢 Connect With Me
 
-🌍 **Portfolio**: [Coming Soon!]
+🌍 **Portfolio**: [Portfolio](https://expertsquad.net/)
 
 🔗 **LinkedIn**: [linkedin.com/in/zayedhossain](https://www.linkedin.com/in/zayedhossain)
 
-🐦 **Twitter/X**: [@zayed_dev](https://twitter.com/zayed_dev)
+🐦 **Twitter/X**: [@zayed_dev](https://twitter.com/thezayedhossain)
 
-📧 **Email**: hello@zayedhossain.com
+📧 **Email**: business@bdcommerce.app
 
-📌 **GitHub**: [github.com/zayedhossain](https://github.com/zayedhossain)
+📌 **GitHub**: [github.com/zayedhossain](https://github.com/zayedhossain120)
 
 Let's connect and build something amazing together! 🚀🔥
 
