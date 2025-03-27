@@ -47,11 +47,11 @@ motion-fade-in 3000ms
 
 🔗 **LinkedIn**: [linkedin.com/in/zayedhossain](https://www.linkedin.com/in/zayedhossain)
 
-🐦 **Twitter/X**: [@zayed_dev](https://twitter.com/thezayedhossain)
+🐦 **Twitter/X**: [@thezayedhossain](https://twitter.com/thezayedhossain)
 
 📧 **Email**: business@bdcommerce.app
 
-📌 **GitHub**: [github.com/zayedhossain](https://github.com/zayedhossain120)
+📌 **GitHub**: [github.com/zayedhossain120](https://github.com/zayedhossain120)
 
 Let's connect and build something amazing together! 🚀🔥
 
