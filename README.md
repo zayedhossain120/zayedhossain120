@@ -1,6 +1,6 @@
 # Hi, I'm Zayed Hossain! 👋
 
-## 🚀 MERN Stack Developer | SaaS Owner | Entrepreneur
+## 🚀 Full-Stack Developer | SaaS Owner | Entrepreneur
 
 I am a passionate **MERN Stack Developer**, a **SaaS Business Owner**, and the **Co-Founder of Expersquad.net**. As the **CEO & Founder of BDCommerce.app**, I specialize in **marketing and growing companies** from the ground up! With my expertise in web technologies, I craft high-performing web applications and scalable SaaS products. 
 
